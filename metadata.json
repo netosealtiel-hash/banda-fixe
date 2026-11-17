@@ -1,0 +1,6 @@
+{
+  "name": "Vida na Banda",
+  "description": "Jogo 3D isométrico de simulação de vida inspirado em Luanda e na cultura de Angola.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

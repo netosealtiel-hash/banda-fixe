@@ -1,0 +1,1963 @@
+{
+  "accounts": {
+    "netosealtiel@gmail.com": {
+      "id": "usr_7db3b293e7d8",
+      "email": "netosealtiel@gmail.com",
+      "name": "Neto Sealtiel (Dono ADM)",
+      "passwordHash": "1afdbc42220a183c22a69649b514c8a10d3a38e187d85db84448f1ec247d666b",
+      "salt": "6efd150bf0dd93dfeada8d14e1ecf3df",
+      "isAdmin": true,
+      "createdAt": 1794584905825,
+      "snapshot": {
+        "mode": "playing",
+        "sceneView": "outdoor",
+        "activeCompanyRoomId": null,
+        "currentMunicipalityId": "talatona",
+        "homeMunicipalityId": "ingombota",
+        "birthClass": "normal",
+        "birthDistrict": "Maianga",
+        "motherOccupation": "Taxista",
+        "motherStory": "Nasceste na Maianga. A tua mãe foi taxista durante anos pelas avenidas da capital.",
+        "appearance": {
+          "firstName": "Neto",
+          "lastName": "Sealtiel (Dono ADM)",
+          "age": 24,
+          "gender": "Masculino",
+          "skinTone": "#6f422b",
+          "faceShape": "oval",
+          "eyeColor": "#23160f",
+          "hairStyle": "corte_baixo",
+          "hairColor": "#151210",
+          "beardStyle": "cavanhaque",
+          "height": 1,
+          "bodyBuild": "atletico",
+          "outfit": "urbano_luanda",
+          "shirtColor": "#f59e0b",
+          "pantsColor": "#1e293b",
+          "shoeColor": "#f8fafc",
+          "hasWatch": true,
+          "hasChain": true,
+          "hasCap": false,
+          "capColor": "#dc2626",
+          "hasGlasses": false
+        },
+        "moneyKz": 50000001249454,
+        "bankKz": 116000,
+        "reputation": 505,
+        "day": 1,
+        "timeMinutes": 546,
+        "weather": "sol",
+        "needs": {
+          "energy": 88,
+          "hunger": 62,
+          "hygiene": 92,
+          "mood": 100,
+          "health": 100
+        },
+        "educationLevel": "pos_graduacao",
+        "studyProgress": 0,
+        "studySessionsCompleted": 16,
+        "profession": "empresario",
+        "currentCompanyId": "sonangol",
+        "currentCompanyJobTitle": "Gestor de Projetos Sonangol",
+        "lastJobApplication": {
+          "accepted": true,
+          "title": "Gestor de Projetos Sonangol",
+          "companyName": "Sonangol",
+          "message": "Contratado na Sonangol: Gestor de Projetos Sonangol (52 000 Kz/turno · Desgaste Leve)!"
+        },
+        "shiftsCompleted": 10,
+        "propertyId": "mansao",
+        "activeCondoRental": {
+          "condoId": "condo_miramar_sky",
+          "rentedAtRealMs": 1794950344863,
+          "expiresAtRealMs": 1804627140336,
+          "daysPaid": 112
+        },
+        "ownedBathtubs": [
+          "banheira_normal",
+          "banheira_classica",
+          "jacuzzi_ilha",
+          "banheira_hidro",
+          "banheira_marmore"
+        ],
+        "placedBathtubId": "jacuzzi_ilha",
+        "furniture": [
+          {
+            "id": "cama",
+            "name": "Cama King Conforto",
+            "placed": true,
+            "xOffset": -3,
+            "zOffset": -2.4,
+            "color": "#b45309"
+          },
+          {
+            "id": "tv",
+            "name": "Televisão Smart 4K",
+            "placed": true,
+            "xOffset": 0,
+            "zOffset": -3.6,
+            "color": "#0f172a"
+          },
+          {
+            "id": "fogao",
+            "name": "Fogão & Cozinha Angolana",
+            "placed": true,
+            "xOffset": 3.1,
+            "zOffset": -2.5,
+            "color": "#475569"
+          },
+          {
+            "id": "sofa",
+            "name": "Sofá da Sala",
+            "placed": true,
+            "xOffset": -0.4,
+            "zOffset": 0.6,
+            "color": "#d97706"
+          },
+          {
+            "id": "mesa",
+            "name": "Mesa de Jantar",
+            "placed": false,
+            "xOffset": 2.6,
+            "zOffset": 1.4,
+            "color": "#78350f"
+          },
+          {
+            "id": "som",
+            "name": "Aparelhagem Kuduro",
+            "placed": false,
+            "xOffset": -3,
+            "zOffset": 1.8,
+            "color": "#1e293b"
+          }
+        ],
+        "inventory": {
+          "cafe_expresso": 1
+        },
+        "ownedVehicles": [
+          {
+            "id": "candongueiro_hiace",
+            "color": "#0284c7",
+            "fuel": 90,
+            "health": 100,
+            "x": 8.2,
+            "z": 4.5,
+            "rotationY": 0,
+            "lightsOn": false,
+            "doorsOpen": false
+          },
+          {
+            "id": "range_rover",
+            "color": "#f8fafc",
+            "fuel": 100,
+            "health": 100,
+            "x": 3.94,
+            "z": -8.08,
+            "rotationY": 0,
+            "lightsOn": false,
+            "doorsOpen": false
+          },
+          {
+            "id": "bmw_serie3",
+            "color": "#1d4ed8",
+            "fuel": 94,
+            "health": 100,
+            "x": 3.94,
+            "z": -8.08,
+            "rotationY": 0,
+            "lightsOn": true,
+            "doorsOpen": false
+          }
+        ],
+        "activeVehicleIndex": 2,
+        "inVehicle": false,
+        "vehicleSpeedKmh": 0,
+        "business": {
+          "owned": true,
+          "name": "Grupo Banda Forte",
+          "type": "Produtora Kuduro",
+          "employees": 100,
+          "level": 1,
+          "dailyRevenueKz": 429500,
+          "pendingCashKz": 351500
+        },
+        "npcs": [
+          {
+            "id": "tia_maria",
+            "name": "Tia Maria",
+            "role": "Dona do Cantinho da Bita",
+            "personality": "Acolhedora e atenta à vizinhança",
+            "municipalityId": "ingombota",
+            "district": "Ingombota & Baixa",
+            "skinTone": "#56311f",
+            "shirtColor": "#f59e0b",
+            "hairStyle": "coque",
+            "gender": "Feminino",
+            "affinity": 45,
+            "stage": "Amigo",
+            "isFamily": true,
+            "homeX": -3,
+            "homeZ": 11.5,
+            "greetings": [
+              "Mekie sobrinho! Come um funge aqui no Cantinho antes de entrar no trabalho!",
+              "Cuidado aí na esquina, vi um gatuno de capuz preto a rondar os passeios.",
+              "Se precisares de energia rápida, pede um Café Duplo ou compra uma banheira para casa!"
+            ],
+            "topics": [
+              "Comida & Energia",
+              "Segurança no Bairro",
+              "Família"
+            ]
+          },
+          {
+            "id": "kizua_candongueiro",
+            "name": "Kizua",
+            "role": "Motorista da Paragem",
+            "personality": "Observador e rápido",
+            "municipalityId": "ingombota",
+            "district": "Ingombota & Baixa",
+            "skinTone": "#6f422b",
+            "shirtColor": "#0284c7",
+            "hairStyle": "dreads",
+            "gender": "Masculino",
+            "affinity": 35,
+            "stage": "Conhecido",
+            "homeX": 4,
+            "homeZ": 4.2,
+            "greetings": [
+              "Ilha, Talatona, Viana! Se quiseres ir para Benguela ou Huambo é já no voo da TAAG!",
+              "Tropa, trabalho de segurança puxa muito pelo corpo — nunca vás trabalhar de barriga vazia!",
+              "Hoje o movimento na Baixa está forte!"
+            ],
+            "topics": [
+              "Viagens de Táxi & Avião",
+              "Empresas",
+              "Kuduro"
+            ]
+          },
+          {
+            "id": "neusa_dev",
+            "name": "Neusa Domingos",
+            "role": "Engenheira de Software",
+            "personality": "Inteligente e estratégica",
+            "municipalityId": "talatona",
+            "district": "Talatona",
+            "skinTone": "#8f5a3c",
+            "shirtColor": "#e11d48",
+            "hairStyle": "trancas",
+            "gender": "Feminino",
+            "affinity": 32,
+            "stage": "Conhecido",
+            "homeX": -11,
+            "homeZ": -11,
+            "greetings": [
+              "Na Unitel e no Banco BAI, programação gasta pouquíssima energia e paga muito bem!",
+              "Já viste as eleições no BandaGov? Podes candidatar-te a Presidente, Ministro ou Governador.",
+              "Aluguei um condomínio em Talatona por 3 dias reais — vale cada Kwanza!"
+            ],
+            "topics": [
+              "Programação",
+              "Condomínios Reais",
+              "BandaGov"
+            ]
+          },
+          {
+            "id": "edilson_ilha",
+            "name": "Edilson \"Pele\"",
+            "role": "Promotor de Eventos",
+            "personality": "Vibrante e conectado",
+            "municipalityId": "ilha_luanda",
+            "district": "Ilha de Luanda",
+            "skinTone": "#56311f",
+            "shirtColor": "#16a34a",
+            "hairStyle": "afro",
+            "gender": "Masculino",
+            "affinity": 40,
+            "stage": "Amigo",
+            "homeX": -11,
+            "homeZ": -10,
+            "greetings": [
+              "Mekie! A Praia da Ilha está linda hoje e a Discoteca Kilombo bomba à noite.",
+              "Compra uma Banheira Hidromassagem para tua casa — um clique e ficas a 100% de energia!",
+              "Fica atento aos gatunos que circulam perto das esquinas."
+            ],
+            "topics": [
+              "Praia da Ilha",
+              "Banheiras",
+              "Música"
+            ]
+          },
+          {
+            "id": "gatuno_ze",
+            "name": "Zé Sombra (Gatuno)",
+            "role": "Gatuno do Bairro",
+            "personality": "Sorrateiro e oportunista",
+            "municipalityId": "ingombota",
+            "district": "Ingombota & Baixa",
+            "skinTone": "#3b2114",
+            "shirtColor": "#111827",
+            "hairStyle": "corte_baixo",
+            "gender": "Masculino",
+            "affinity": 0,
+            "stage": "Desconhecido",
+            "isGatuno": true,
+            "homeX": 11,
+            "homeZ": -11,
+            "greetings": [
+              "Ei kota, passa aí uns Kwanzas ou afasta-te antes que eu te limpe os bolsos!",
+              "Só contas veteranas com mais de 3 dias reais aqui na banda é que conseguem entrar no esquema..."
+            ],
+            "topics": [
+              "Esquinas da Baixa"
+            ]
+          },
+          {
+            "id": "gatuno_manucho",
+            "name": "Manucho (Gatuno)",
+            "role": "Gatuno da Avenida",
+            "personality": "Desconfiado e veloz",
+            "municipalityId": "viana",
+            "district": "Viana",
+            "skinTone": "#56311f",
+            "shirtColor": "#1f2937",
+            "hairStyle": "dreads",
+            "gender": "Masculino",
+            "affinity": 0,
+            "stage": "Desconhecido",
+            "isGatuno": true,
+            "homeX": 11,
+            "homeZ": 11,
+            "greetings": [
+              "Não vaciles com o telemóvel na mão aqui em Viana!"
+            ],
+            "topics": [
+              "Rua"
+            ]
+          }
+        ],
+        "childrenCount": 0,
+        "partiesHosted": 0,
+        "racesWon": 0,
+        "stealSuccessCount": 0,
+        "lastStealAtMs": 0,
+        "completedMissionIds": [
+          "m2_cantina",
+          "m3_banheira",
+          "m1_emprego",
+          "m4_viagem",
+          "m5_condo"
+        ],
+        "activeMissionId": "m5_condo",
+        "chatThreads": {
+          "tia_maria": [
+            {
+              "id": "c1",
+              "sender": "Tia Maria",
+              "text": "Mekie sobrinho! Bem-vindo a Ingombota. Passa no Cantinho da Bita para comer ou comprar café, e entra numa empresa para trabalhar!",
+              "timeLabel": "08:15",
+              "fromPlayer": false
+            }
+          ],
+          "kizua_candongueiro": [
+            {
+              "id": "c2",
+              "sender": "Kizua",
+              "text": "Tropa, toca no chão para caminhar ou clica numa empresa para entrar na sala 3D!",
+              "timeLabel": "08:20",
+              "fromPlayer": false
+            }
+          ]
+        },
+        "socialPosts": [
+          {
+            "id": "post_1",
+            "author": "Neusa Domingos",
+            "handle": "@neusa.dev.ao",
+            "location": "Talatona, Luanda",
+            "caption": "A programar na Torre Unitel com um Cappuccino de Luanda. Trabalho leve e salário forte!",
+            "likes": 34,
+            "likedByPlayer": false,
+            "timeLabel": "há 15 min"
+          },
+          {
+            "id": "post_2",
+            "author": "Tia Maria",
+            "handle": "@cantinho.bita",
+            "location": "Ingombota & Baixa",
+            "caption": "Funge com Muamba e Café Expresso a sair na hora no Cantinho da Bita. Passem já!",
+            "likes": 51,
+            "likedByPlayer": false,
+            "timeLabel": "há 32 min"
+          }
+        ],
+        "radioPlaying": false,
+        "currentTrackId": "kuduro_luanda",
+        "playerAction": "idle",
+        "playerDistrict": "Talatona",
+        "playerX": -16,
+        "playerZ": -11.5,
+        "nearbyLandmarkId": null,
+        "nearbyNpcId": null,
+        "nearbyVehiclePrompt": false,
+        "lastEventMessage": "Saíste para a rua!"
+      }
+    },
+    "kelson@banda.ao": {
+      "id": "usr_555a10b709ea",
+      "email": "kelson@banda.ao",
+      "name": "Kelson Manuel",
+      "passwordHash": "9e6017a104ab4c594db7be93518eeb4333ec7e5cee96d9e15d45b6c3db315092",
+      "salt": "781d9be2892b2ef2b4cd6ab08c073e8a",
+      "isAdmin": false,
+      "createdAt": 1794584900105,
+      "snapshot": {
+        "mode": "playing",
+        "sceneView": "outdoor",
+        "activeCompanyRoomId": null,
+        "currentMunicipalityId": "ingombota",
+        "homeMunicipalityId": "ingombota",
+        "birthClass": "normal",
+        "birthDistrict": "Maianga",
+        "motherOccupation": "Taxista",
+        "motherStory": "Nasceste na Maianga. A tua mãe foi taxista durante anos pelas avenidas da capital.",
+        "appearance": {
+          "firstName": "Kelson",
+          "lastName": "Manuel",
+          "age": 24,
+          "gender": "Masculino",
+          "skinTone": "#6f422b",
+          "faceShape": "oval",
+          "eyeColor": "#23160f",
+          "hairStyle": "corte_baixo",
+          "hairColor": "#151210",
+          "beardStyle": "cavanhaque",
+          "height": 1,
+          "bodyBuild": "atletico",
+          "outfit": "urbano_luanda",
+          "shirtColor": "#f59e0b",
+          "pantsColor": "#1e293b",
+          "shoeColor": "#f8fafc",
+          "hasWatch": true,
+          "hasChain": true,
+          "hasCap": false,
+          "capColor": "#dc2626",
+          "hasGlasses": false
+        },
+        "moneyKz": 35000,
+        "bankKz": 6000,
+        "reputation": 6,
+        "day": 1,
+        "timeMinutes": 511,
+        "weather": "sol",
+        "needs": {
+          "energy": 92,
+          "hunger": 85,
+          "hygiene": 90,
+          "mood": 84,
+          "health": 100
+        },
+        "educationLevel": "basico",
+        "studyProgress": 0,
+        "studySessionsCompleted": 0,
+        "profession": null,
+        "currentCompanyId": null,
+        "currentCompanyJobTitle": null,
+        "lastJobApplication": null,
+        "shiftsCompleted": 0,
+        "propertyId": "quarto_alugado",
+        "activeCondoRental": null,
+        "ownedBathtubs": [],
+        "placedBathtubId": null,
+        "furniture": [
+          {
+            "id": "cama",
+            "name": "Cama King Conforto",
+            "placed": true,
+            "xOffset": -3,
+            "zOffset": -2.4,
+            "color": "#b45309"
+          },
+          {
+            "id": "tv",
+            "name": "Televisão Smart 4K",
+            "placed": true,
+            "xOffset": 0,
+            "zOffset": -3.6,
+            "color": "#0f172a"
+          },
+          {
+            "id": "fogao",
+            "name": "Fogão & Cozinha Angolana",
+            "placed": true,
+            "xOffset": 3.1,
+            "zOffset": -2.5,
+            "color": "#475569"
+          },
+          {
+            "id": "sofa",
+            "name": "Sofá da Sala",
+            "placed": true,
+            "xOffset": -0.4,
+            "zOffset": 0.6,
+            "color": "#d97706"
+          },
+          {
+            "id": "mesa",
+            "name": "Mesa de Jantar",
+            "placed": false,
+            "xOffset": 2.6,
+            "zOffset": 1.4,
+            "color": "#78350f"
+          },
+          {
+            "id": "som",
+            "name": "Aparelhagem Kuduro",
+            "placed": false,
+            "xOffset": -3,
+            "zOffset": 1.8,
+            "color": "#1e293b"
+          }
+        ],
+        "inventory": {
+          "cafe_expresso": 1
+        },
+        "ownedVehicles": [
+          {
+            "id": "candongueiro_hiace",
+            "color": "#0284c7",
+            "fuel": 90,
+            "health": 100,
+            "x": 8.2,
+            "z": 4.5,
+            "rotationY": 0,
+            "lightsOn": false,
+            "doorsOpen": false
+          }
+        ],
+        "activeVehicleIndex": 0,
+        "inVehicle": false,
+        "vehicleSpeedKmh": 0,
+        "business": {
+          "owned": false,
+          "name": "Banda Empreendimentos",
+          "type": "Loja de Bairro",
+          "employees": 0,
+          "level": 1,
+          "dailyRevenueKz": 0,
+          "pendingCashKz": 0
+        },
+        "npcs": [
+          {
+            "id": "tia_maria",
+            "name": "Tia Maria",
+            "role": "Dona do Cantinho da Bita",
+            "personality": "Acolhedora e atenta à vizinhança",
+            "municipalityId": "ingombota",
+            "district": "Ingombota & Baixa",
+            "skinTone": "#56311f",
+            "shirtColor": "#f59e0b",
+            "hairStyle": "coque",
+            "gender": "Feminino",
+            "affinity": 45,
+            "stage": "Amigo",
+            "isFamily": true,
+            "homeX": -3,
+            "homeZ": 11.5,
+            "greetings": [
+              "Mekie sobrinho! Come um funge aqui no Cantinho antes de entrar no trabalho!",
+              "Cuidado aí na esquina, vi um gatuno de capuz preto a rondar os passeios.",
+              "Se precisares de energia rápida, pede um Café Duplo ou compra uma banheira para casa!"
+            ],
+            "topics": [
+              "Comida & Energia",
+              "Segurança no Bairro",
+              "Família"
+            ]
+          },
+          {
+            "id": "kizua_candongueiro",
+            "name": "Kizua",
+            "role": "Motorista da Paragem",
+            "personality": "Observador e rápido",
+            "municipalityId": "ingombota",
+            "district": "Ingombota & Baixa",
+            "skinTone": "#6f422b",
+            "shirtColor": "#0284c7",
+            "hairStyle": "dreads",
+            "gender": "Masculino",
+            "affinity": 35,
+            "stage": "Conhecido",
+            "homeX": 4,
+            "homeZ": 4.2,
+            "greetings": [
+              "Ilha, Talatona, Viana! Se quiseres ir para Benguela ou Huambo é já no voo da TAAG!",
+              "Tropa, trabalho de segurança puxa muito pelo corpo — nunca vás trabalhar de barriga vazia!",
+              "Hoje o movimento na Baixa está forte!"
+            ],
+            "topics": [
+              "Viagens de Táxi & Avião",
+              "Empresas",
+              "Kuduro"
+            ]
+          },
+          {
+            "id": "neusa_dev",
+            "name": "Neusa Domingos",
+            "role": "Engenheira de Software",
+            "personality": "Inteligente e estratégica",
+            "municipalityId": "talatona",
+            "district": "Talatona",
+            "skinTone": "#8f5a3c",
+            "shirtColor": "#e11d48",
+            "hairStyle": "trancas",
+            "gender": "Feminino",
+            "affinity": 32,
+            "stage": "Conhecido",
+            "homeX": -11,
+            "homeZ": -11,
+            "greetings": [
+              "Na Unitel e no Banco BAI, programação gasta pouquíssima energia e paga muito bem!",
+              "Já viste as eleições no BandaGov? Podes candidatar-te a Presidente, Ministro ou Governador.",
+              "Aluguei um condomínio em Talatona por 3 dias reais — vale cada Kwanza!"
+            ],
+            "topics": [
+              "Programação",
+              "Condomínios Reais",
+              "BandaGov"
+            ]
+          },
+          {
+            "id": "edilson_ilha",
+            "name": "Edilson \"Pele\"",
+            "role": "Promotor de Eventos",
+            "personality": "Vibrante e conectado",
+            "municipalityId": "ilha_luanda",
+            "district": "Ilha de Luanda",
+            "skinTone": "#56311f",
+            "shirtColor": "#16a34a",
+            "hairStyle": "afro",
+            "gender": "Masculino",
+            "affinity": 40,
+            "stage": "Amigo",
+            "homeX": -11,
+            "homeZ": -10,
+            "greetings": [
+              "Mekie! A Praia da Ilha está linda hoje e a Discoteca Kilombo bomba à noite.",
+              "Compra uma Banheira Hidromassagem para tua casa — um clique e ficas a 100% de energia!",
+              "Fica atento aos gatunos que circulam perto das esquinas."
+            ],
+            "topics": [
+              "Praia da Ilha",
+              "Banheiras",
+              "Música"
+            ]
+          },
+          {
+            "id": "gatuno_ze",
+            "name": "Zé Sombra (Gatuno)",
+            "role": "Gatuno do Bairro",
+            "personality": "Sorrateiro e oportunista",
+            "municipalityId": "ingombota",
+            "district": "Ingombota & Baixa",
+            "skinTone": "#3b2114",
+            "shirtColor": "#111827",
+            "hairStyle": "corte_baixo",
+            "gender": "Masculino",
+            "affinity": 0,
+            "stage": "Desconhecido",
+            "isGatuno": true,
+            "homeX": 11,
+            "homeZ": -11,
+            "greetings": [
+              "Ei kota, passa aí uns Kwanzas ou afasta-te antes que eu te limpe os bolsos!",
+              "Só contas veteranas com mais de 3 dias reais aqui na banda é que conseguem entrar no esquema..."
+            ],
+            "topics": [
+              "Esquinas da Baixa"
+            ]
+          },
+          {
+            "id": "gatuno_manucho",
+            "name": "Manucho (Gatuno)",
+            "role": "Gatuno da Avenida",
+            "personality": "Desconfiado e veloz",
+            "municipalityId": "viana",
+            "district": "Viana",
+            "skinTone": "#56311f",
+            "shirtColor": "#1f2937",
+            "hairStyle": "dreads",
+            "gender": "Masculino",
+            "affinity": 0,
+            "stage": "Desconhecido",
+            "isGatuno": true,
+            "homeX": 11,
+            "homeZ": 11,
+            "greetings": [
+              "Não vaciles com o telemóvel na mão aqui em Viana!"
+            ],
+            "topics": [
+              "Rua"
+            ]
+          }
+        ],
+        "childrenCount": 0,
+        "partiesHosted": 0,
+        "racesWon": 0,
+        "stealSuccessCount": 0,
+        "lastStealAtMs": 0,
+        "completedMissionIds": [],
+        "activeMissionId": "m1_emprego",
+        "chatThreads": {
+          "tia_maria": [
+            {
+              "id": "c1",
+              "sender": "Tia Maria",
+              "text": "Mekie sobrinho! Bem-vindo a Ingombota. Passa no Cantinho da Bita para comer ou comprar café, e entra numa empresa para trabalhar!",
+              "timeLabel": "08:15",
+              "fromPlayer": false
+            }
+          ],
+          "kizua_candongueiro": [
+            {
+              "id": "c2",
+              "sender": "Kizua",
+              "text": "Tropa, toca no chão para caminhar ou clica numa empresa para entrar na sala 3D!",
+              "timeLabel": "08:20",
+              "fromPlayer": false
+            }
+          ]
+        },
+        "socialPosts": [
+          {
+            "id": "post_1",
+            "author": "Neusa Domingos",
+            "handle": "@neusa.dev.ao",
+            "location": "Talatona, Luanda",
+            "caption": "A programar na Torre Unitel com um Cappuccino de Luanda. Trabalho leve e salário forte!",
+            "likes": 34,
+            "likedByPlayer": false,
+            "timeLabel": "há 15 min"
+          },
+          {
+            "id": "post_2",
+            "author": "Tia Maria",
+            "handle": "@cantinho.bita",
+            "location": "Ingombota & Baixa",
+            "caption": "Funge com Muamba e Café Expresso a sair na hora no Cantinho da Bita. Passem já!",
+            "likes": 51,
+            "likedByPlayer": false,
+            "timeLabel": "há 32 min"
+          }
+        ],
+        "radioPlaying": false,
+        "currentTrackId": "kuduro_luanda",
+        "playerAction": "idle",
+        "playerDistrict": "Ingombota & Baixa",
+        "playerX": -4.2,
+        "playerZ": 7.8,
+        "nearbyLandmarkId": null,
+        "nearbyNpcId": "gatuno_manucho",
+        "nearbyVehiclePrompt": false,
+        "lastEventMessage": "Bem-vindo à Banda 3D! Toca no terreno para andar ou entra num edifício."
+      }
+    },
+    "novato@banda.ao": {
+      "id": "usr_34f053b97ccd",
+      "email": "novato@banda.ao",
+      "name": "Jelson Novato",
+      "passwordHash": "8af653706bef0b656fb048aa5d5b9dd821eb6d83e2855b7c32b3bcfd06149655",
+      "salt": "916ab40770be8923bdc244168f15a681",
+      "isAdmin": false,
+      "createdAt": 1794921686030,
+      "snapshot": {
+        "mode": "playing",
+        "sceneView": "outdoor",
+        "activeCompanyRoomId": null,
+        "currentMunicipalityId": "ingombota",
+        "homeMunicipalityId": "ingombota",
+        "birthClass": "normal",
+        "birthDistrict": "Maianga",
+        "motherOccupation": "Taxista",
+        "motherStory": "Nasceste na Maianga. A tua mãe foi taxista durante anos pelas avenidas da capital.",
+        "appearance": {
+          "firstName": "Jelson",
+          "lastName": "Novato",
+          "age": 24,
+          "gender": "Masculino",
+          "skinTone": "#6f422b",
+          "faceShape": "oval",
+          "eyeColor": "#23160f",
+          "hairStyle": "corte_baixo",
+          "hairColor": "#151210",
+          "beardStyle": "cavanhaque",
+          "height": 1,
+          "bodyBuild": "atletico",
+          "outfit": "urbano_luanda",
+          "shirtColor": "#f59e0b",
+          "pantsColor": "#1e293b",
+          "shoeColor": "#f8fafc",
+          "hasWatch": true,
+          "hasChain": true,
+          "hasCap": false,
+          "capColor": "#dc2626",
+          "hasGlasses": false
+        },
+        "moneyKz": 14000,
+        "bankKz": 6000,
+        "reputation": 6,
+        "day": 1,
+        "timeMinutes": 510,
+        "weather": "sol",
+        "needs": {
+          "energy": 92,
+          "hunger": 85,
+          "hygiene": 90,
+          "mood": 84,
+          "health": 100
+        },
+        "educationLevel": "basico",
+        "studyProgress": 0,
+        "studySessionsCompleted": 0,
+        "profession": null,
+        "currentCompanyId": null,
+        "currentCompanyJobTitle": null,
+        "lastJobApplication": null,
+        "shiftsCompleted": 0,
+        "propertyId": "quarto_alugado",
+        "activeCondoRental": null,
+        "ownedBathtubs": [],
+        "placedBathtubId": null,
+        "furniture": [
+          {
+            "id": "cama",
+            "name": "Cama King Conforto",
+            "placed": true,
+            "xOffset": -3,
+            "zOffset": -2.4,
+            "color": "#b45309"
+          },
+          {
+            "id": "tv",
+            "name": "Televisão Smart 4K",
+            "placed": true,
+            "xOffset": 0,
+            "zOffset": -3.6,
+            "color": "#0f172a"
+          },
+          {
+            "id": "fogao",
+            "name": "Fogão & Cozinha Angolana",
+            "placed": true,
+            "xOffset": 3.1,
+            "zOffset": -2.5,
+            "color": "#475569"
+          },
+          {
+            "id": "sofa",
+            "name": "Sofá da Sala",
+            "placed": true,
+            "xOffset": -0.4,
+            "zOffset": 0.6,
+            "color": "#d97706"
+          },
+          {
+            "id": "mesa",
+            "name": "Mesa de Jantar",
+            "placed": false,
+            "xOffset": 2.6,
+            "zOffset": 1.4,
+            "color": "#78350f"
+          },
+          {
+            "id": "som",
+            "name": "Aparelhagem Kuduro",
+            "placed": false,
+            "xOffset": -3,
+            "zOffset": 1.8,
+            "color": "#1e293b"
+          }
+        ],
+        "inventory": {
+          "cafe_expresso": 1
+        },
+        "ownedVehicles": [
+          {
+            "id": "candongueiro_hiace",
+            "color": "#0284c7",
+            "fuel": 90,
+            "health": 100,
+            "x": 8.2,
+            "z": 4.5,
+            "rotationY": 0,
+            "lightsOn": false,
+            "doorsOpen": false
+          }
+        ],
+        "activeVehicleIndex": 0,
+        "inVehicle": false,
+        "vehicleSpeedKmh": 0,
+        "business": {
+          "owned": false,
+          "name": "Banda Empreendimentos",
+          "type": "Loja de Bairro",
+          "employees": 0,
+          "level": 1,
+          "dailyRevenueKz": 0,
+          "pendingCashKz": 0
+        },
+        "npcs": [
+          {
+            "id": "tia_maria",
+            "name": "Tia Maria",
+            "role": "Dona do Cantinho da Bita",
+            "personality": "Acolhedora e atenta à vizinhança",
+            "municipalityId": "ingombota",
+            "district": "Ingombota & Baixa",
+            "skinTone": "#56311f",
+            "shirtColor": "#f59e0b",
+            "hairStyle": "coque",
+            "gender": "Feminino",
+            "affinity": 45,
+            "stage": "Amigo",
+            "isFamily": true,
+            "homeX": -3,
+            "homeZ": 11.5,
+            "greetings": [
+              "Mekie sobrinho! Come um funge aqui no Cantinho antes de entrar no trabalho!",
+              "Cuidado aí na esquina, vi um gatuno de capuz preto a rondar os passeios.",
+              "Se precisares de energia rápida, pede um Café Duplo ou compra uma banheira para casa!"
+            ],
+            "topics": [
+              "Comida & Energia",
+              "Segurança no Bairro",
+              "Família"
+            ]
+          },
+          {
+            "id": "kizua_candongueiro",
+            "name": "Kizua",
+            "role": "Motorista da Paragem",
+            "personality": "Observador e rápido",
+            "municipalityId": "ingombota",
+            "district": "Ingombota & Baixa",
+            "skinTone": "#6f422b",
+            "shirtColor": "#0284c7",
+            "hairStyle": "dreads",
+            "gender": "Masculino",
+            "affinity": 35,
+            "stage": "Conhecido",
+            "homeX": 4,
+            "homeZ": 4.2,
+            "greetings": [
+              "Ilha, Talatona, Viana! Se quiseres ir para Benguela ou Huambo é já no voo da TAAG!",
+              "Tropa, trabalho de segurança puxa muito pelo corpo — nunca vás trabalhar de barriga vazia!",
+              "Hoje o movimento na Baixa está forte!"
+            ],
+            "topics": [
+              "Viagens de Táxi & Avião",
+              "Empresas",
+              "Kuduro"
+            ]
+          },
+          {
+            "id": "neusa_dev",
+            "name": "Neusa Domingos",
+            "role": "Engenheira de Software",
+            "personality": "Inteligente e estratégica",
+            "municipalityId": "talatona",
+            "district": "Talatona",
+            "skinTone": "#8f5a3c",
+            "shirtColor": "#e11d48",
+            "hairStyle": "trancas",
+            "gender": "Feminino",
+            "affinity": 32,
+            "stage": "Conhecido",
+            "homeX": -11,
+            "homeZ": -11,
+            "greetings": [
+              "Na Unitel e no Banco BAI, programação gasta pouquíssima energia e paga muito bem!",
+              "Já viste as eleições no BandaGov? Podes candidatar-te a Presidente, Ministro ou Governador.",
+              "Aluguei um condomínio em Talatona por 3 dias reais — vale cada Kwanza!"
+            ],
+            "topics": [
+              "Programação",
+              "Condomínios Reais",
+              "BandaGov"
+            ]
+          },
+          {
+            "id": "edilson_ilha",
+            "name": "Edilson \"Pele\"",
+            "role": "Promotor de Eventos",
+            "personality": "Vibrante e conectado",
+            "municipalityId": "ilha_luanda",
+            "district": "Ilha de Luanda",
+            "skinTone": "#56311f",
+            "shirtColor": "#16a34a",
+            "hairStyle": "afro",
+            "gender": "Masculino",
+            "affinity": 40,
+            "stage": "Amigo",
+            "homeX": -11,
+            "homeZ": -10,
+            "greetings": [
+              "Mekie! A Praia da Ilha está linda hoje e a Discoteca Kilombo bomba à noite.",
+              "Compra uma Banheira Hidromassagem para tua casa — um clique e ficas a 100% de energia!",
+              "Fica atento aos gatunos que circulam perto das esquinas."
+            ],
+            "topics": [
+              "Praia da Ilha",
+              "Banheiras",
+              "Música"
+            ]
+          },
+          {
+            "id": "gatuno_ze",
+            "name": "Zé Sombra (Gatuno)",
+            "role": "Gatuno do Bairro",
+            "personality": "Sorrateiro e oportunista",
+            "municipalityId": "ingombota",
+            "district": "Ingombota & Baixa",
+            "skinTone": "#3b2114",
+            "shirtColor": "#111827",
+            "hairStyle": "corte_baixo",
+            "gender": "Masculino",
+            "affinity": 0,
+            "stage": "Desconhecido",
+            "isGatuno": true,
+            "homeX": 11,
+            "homeZ": -11,
+            "greetings": [
+              "Ei kota, passa aí uns Kwanzas ou afasta-te antes que eu te limpe os bolsos!",
+              "Só contas veteranas com mais de 3 dias reais aqui na banda é que conseguem entrar no esquema..."
+            ],
+            "topics": [
+              "Esquinas da Baixa"
+            ]
+          },
+          {
+            "id": "gatuno_manucho",
+            "name": "Manucho (Gatuno)",
+            "role": "Gatuno da Avenida",
+            "personality": "Desconfiado e veloz",
+            "municipalityId": "viana",
+            "district": "Viana",
+            "skinTone": "#56311f",
+            "shirtColor": "#1f2937",
+            "hairStyle": "dreads",
+            "gender": "Masculino",
+            "affinity": 0,
+            "stage": "Desconhecido",
+            "isGatuno": true,
+            "homeX": 11,
+            "homeZ": 11,
+            "greetings": [
+              "Não vaciles com o telemóvel na mão aqui em Viana!"
+            ],
+            "topics": [
+              "Rua"
+            ]
+          }
+        ],
+        "childrenCount": 0,
+        "partiesHosted": 0,
+        "racesWon": 0,
+        "stealSuccessCount": 0,
+        "lastStealAtMs": 0,
+        "completedMissionIds": [],
+        "activeMissionId": "m1_emprego",
+        "chatThreads": {
+          "tia_maria": [
+            {
+              "id": "c1",
+              "sender": "Tia Maria",
+              "text": "Mekie sobrinho! Bem-vindo a Ingombota. Passa no Cantinho da Bita para comer ou comprar café, e entra numa empresa para trabalhar!",
+              "timeLabel": "08:15",
+              "fromPlayer": false
+            }
+          ],
+          "kizua_candongueiro": [
+            {
+              "id": "c2",
+              "sender": "Kizua",
+              "text": "Tropa, toca no chão para caminhar ou clica numa empresa para entrar na sala 3D!",
+              "timeLabel": "08:20",
+              "fromPlayer": false
+            }
+          ]
+        },
+        "socialPosts": [
+          {
+            "id": "post_1",
+            "author": "Neusa Domingos",
+            "handle": "@neusa.dev.ao",
+            "location": "Talatona, Luanda",
+            "caption": "A programar na Torre Unitel com um Cappuccino de Luanda. Trabalho leve e salário forte!",
+            "likes": 34,
+            "likedByPlayer": false,
+            "timeLabel": "há 15 min"
+          },
+          {
+            "id": "post_2",
+            "author": "Tia Maria",
+            "handle": "@cantinho.bita",
+            "location": "Ingombota & Baixa",
+            "caption": "Funge com Muamba e Café Expresso a sair na hora no Cantinho da Bita. Passem já!",
+            "likes": 51,
+            "likedByPlayer": false,
+            "timeLabel": "há 32 min"
+          }
+        ],
+        "radioPlaying": false,
+        "currentTrackId": "kuduro_luanda",
+        "playerAction": "idle",
+        "playerDistrict": "Ingombota & Baixa",
+        "playerX": -4.2,
+        "playerZ": 7.8,
+        "nearbyLandmarkId": null,
+        "nearbyNpcId": null,
+        "nearbyVehiclePrompt": false,
+        "lastEventMessage": "Bem-vindo à Banda 3D! Toca no terreno para andar ou entra num edifício."
+      }
+    },
+    "visual_1794950848655@banda.ao": {
+      "id": "usr_475d159c12dd",
+      "email": "visual_1794950848655@banda.ao",
+      "name": "Jussara Lopes",
+      "passwordHash": "0d5eac28c698436a03dc2e751e4c600abe816ee55e3a7879730da8fe17f1c26a",
+      "salt": "3e1800599dd7f9b2fe21aa8c9b020036",
+      "isAdmin": false,
+      "createdAt": 1794950848774,
+      "snapshot": {
+        "mode": "creator",
+        "sceneView": "outdoor",
+        "activeCompanyRoomId": null,
+        "currentMunicipalityId": "ingombota",
+        "homeMunicipalityId": "ingombota",
+        "birthClass": "normal",
+        "birthDistrict": "Maianga",
+        "motherOccupation": "Taxista",
+        "motherStory": "Nasceste na Maianga. A tua mãe foi taxista durante anos pelas avenidas da capital.",
+        "appearance": {
+          "firstName": "Jussara",
+          "lastName": "Lopes",
+          "age": 24,
+          "gender": "Masculino",
+          "skinTone": "#6f422b",
+          "faceShape": "oval",
+          "eyeColor": "#23160f",
+          "hairStyle": "corte_baixo",
+          "hairColor": "#151210",
+          "beardStyle": "cavanhaque",
+          "height": 1,
+          "bodyBuild": "atletico",
+          "outfit": "urbano_luanda",
+          "shirtColor": "#f59e0b",
+          "pantsColor": "#1e293b",
+          "shoeColor": "#f8fafc",
+          "hasWatch": true,
+          "hasChain": true,
+          "hasCap": false,
+          "capColor": "#dc2626",
+          "hasGlasses": false
+        },
+        "moneyKz": 14000,
+        "bankKz": 6000,
+        "reputation": 6,
+        "day": 1,
+        "timeMinutes": 510,
+        "weather": "sol",
+        "needs": {
+          "energy": 92,
+          "hunger": 85,
+          "hygiene": 90,
+          "mood": 84,
+          "health": 100
+        },
+        "educationLevel": "basico",
+        "studyProgress": 0,
+        "studySessionsCompleted": 0,
+        "profession": null,
+        "currentCompanyId": null,
+        "currentCompanyJobTitle": null,
+        "lastJobApplication": null,
+        "shiftsCompleted": 0,
+        "propertyId": "quarto_alugado",
+        "activeCondoRental": null,
+        "ownedBathtubs": [],
+        "placedBathtubId": null,
+        "furniture": [
+          {
+            "id": "cama",
+            "name": "Cama King Conforto",
+            "placed": true,
+            "xOffset": -3,
+            "zOffset": -2.4,
+            "color": "#b45309"
+          },
+          {
+            "id": "tv",
+            "name": "Televisão Smart 4K",
+            "placed": true,
+            "xOffset": 0,
+            "zOffset": -3.6,
+            "color": "#0f172a"
+          },
+          {
+            "id": "fogao",
+            "name": "Fogão & Cozinha Angolana",
+            "placed": true,
+            "xOffset": 3.1,
+            "zOffset": -2.5,
+            "color": "#475569"
+          },
+          {
+            "id": "sofa",
+            "name": "Sofá da Sala",
+            "placed": true,
+            "xOffset": -0.4,
+            "zOffset": 0.6,
+            "color": "#d97706"
+          },
+          {
+            "id": "mesa",
+            "name": "Mesa de Jantar",
+            "placed": false,
+            "xOffset": 2.6,
+            "zOffset": 1.4,
+            "color": "#78350f"
+          },
+          {
+            "id": "som",
+            "name": "Aparelhagem Kuduro",
+            "placed": false,
+            "xOffset": -3,
+            "zOffset": 1.8,
+            "color": "#1e293b"
+          }
+        ],
+        "inventory": {
+          "cafe_expresso": 1
+        },
+        "ownedVehicles": [
+          {
+            "id": "candongueiro_hiace",
+            "color": "#0284c7",
+            "fuel": 90,
+            "health": 100,
+            "x": 8.2,
+            "z": 4.5,
+            "rotationY": 0,
+            "lightsOn": false,
+            "doorsOpen": false
+          }
+        ],
+        "activeVehicleIndex": 0,
+        "inVehicle": false,
+        "vehicleSpeedKmh": 0,
+        "business": {
+          "owned": false,
+          "name": "Banda Empreendimentos",
+          "type": "Loja de Bairro",
+          "employees": 0,
+          "level": 1,
+          "dailyRevenueKz": 0,
+          "pendingCashKz": 0
+        },
+        "npcs": [
+          {
+            "id": "tia_maria",
+            "name": "Tia Maria",
+            "role": "Dona do Cantinho da Bita",
+            "personality": "Acolhedora e atenta à vizinhança",
+            "municipalityId": "ingombota",
+            "district": "Ingombota & Baixa",
+            "skinTone": "#56311f",
+            "shirtColor": "#f59e0b",
+            "hairStyle": "coque",
+            "gender": "Feminino",
+            "affinity": 45,
+            "stage": "Amigo",
+            "isFamily": true,
+            "homeX": -3,
+            "homeZ": 11.5,
+            "greetings": [
+              "Mekie sobrinho! Come um funge aqui no Cantinho antes de entrar no trabalho!",
+              "Cuidado aí na esquina, vi um gatuno de capuz preto a rondar os passeios.",
+              "Se precisares de energia rápida, pede um Café Duplo ou compra uma banheira para casa!"
+            ],
+            "topics": [
+              "Comida & Energia",
+              "Segurança no Bairro",
+              "Família"
+            ]
+          },
+          {
+            "id": "kizua_candongueiro",
+            "name": "Kizua",
+            "role": "Motorista da Paragem",
+            "personality": "Observador e rápido",
+            "municipalityId": "ingombota",
+            "district": "Ingombota & Baixa",
+            "skinTone": "#6f422b",
+            "shirtColor": "#0284c7",
+            "hairStyle": "dreads",
+            "gender": "Masculino",
+            "affinity": 35,
+            "stage": "Conhecido",
+            "homeX": 4,
+            "homeZ": 4.2,
+            "greetings": [
+              "Ilha, Talatona, Viana! Se quiseres ir para Benguela ou Huambo é já no voo da TAAG!",
+              "Tropa, trabalho de segurança puxa muito pelo corpo — nunca vás trabalhar de barriga vazia!",
+              "Hoje o movimento na Baixa está forte!"
+            ],
+            "topics": [
+              "Viagens de Táxi & Avião",
+              "Empresas",
+              "Kuduro"
+            ]
+          },
+          {
+            "id": "neusa_dev",
+            "name": "Neusa Domingos",
+            "role": "Engenheira de Software",
+            "personality": "Inteligente e estratégica",
+            "municipalityId": "talatona",
+            "district": "Talatona",
+            "skinTone": "#8f5a3c",
+            "shirtColor": "#e11d48",
+            "hairStyle": "trancas",
+            "gender": "Feminino",
+            "affinity": 32,
+            "stage": "Conhecido",
+            "homeX": -11,
+            "homeZ": -11,
+            "greetings": [
+              "Na Unitel e no Banco BAI, programação gasta pouquíssima energia e paga muito bem!",
+              "Já viste as eleições no BandaGov? Podes candidatar-te a Presidente, Ministro ou Governador.",
+              "Aluguei um condomínio em Talatona por 3 dias reais — vale cada Kwanza!"
+            ],
+            "topics": [
+              "Programação",
+              "Condomínios Reais",
+              "BandaGov"
+            ]
+          },
+          {
+            "id": "edilson_ilha",
+            "name": "Edilson \"Pele\"",
+            "role": "Promotor de Eventos",
+            "personality": "Vibrante e conectado",
+            "municipalityId": "ilha_luanda",
+            "district": "Ilha de Luanda",
+            "skinTone": "#56311f",
+            "shirtColor": "#16a34a",
+            "hairStyle": "afro",
+            "gender": "Masculino",
+            "affinity": 40,
+            "stage": "Amigo",
+            "homeX": -11,
+            "homeZ": -10,
+            "greetings": [
+              "Mekie! A Praia da Ilha está linda hoje e a Discoteca Kilombo bomba à noite.",
+              "Compra uma Banheira Hidromassagem para tua casa — um clique e ficas a 100% de energia!",
+              "Fica atento aos gatunos que circulam perto das esquinas."
+            ],
+            "topics": [
+              "Praia da Ilha",
+              "Banheiras",
+              "Música"
+            ]
+          },
+          {
+            "id": "gatuno_ze",
+            "name": "Zé Sombra (Gatuno)",
+            "role": "Gatuno do Bairro",
+            "personality": "Sorrateiro e oportunista",
+            "municipalityId": "ingombota",
+            "district": "Ingombota & Baixa",
+            "skinTone": "#3b2114",
+            "shirtColor": "#111827",
+            "hairStyle": "corte_baixo",
+            "gender": "Masculino",
+            "affinity": 0,
+            "stage": "Desconhecido",
+            "isGatuno": true,
+            "homeX": 11,
+            "homeZ": -11,
+            "greetings": [
+              "Ei kota, passa aí uns Kwanzas ou afasta-te antes que eu te limpe os bolsos!",
+              "Só contas veteranas com mais de 3 dias reais aqui na banda é que conseguem entrar no esquema..."
+            ],
+            "topics": [
+              "Esquinas da Baixa"
+            ]
+          },
+          {
+            "id": "gatuno_manucho",
+            "name": "Manucho (Gatuno)",
+            "role": "Gatuno da Avenida",
+            "personality": "Desconfiado e veloz",
+            "municipalityId": "viana",
+            "district": "Viana",
+            "skinTone": "#56311f",
+            "shirtColor": "#1f2937",
+            "hairStyle": "dreads",
+            "gender": "Masculino",
+            "affinity": 0,
+            "stage": "Desconhecido",
+            "isGatuno": true,
+            "homeX": 11,
+            "homeZ": 11,
+            "greetings": [
+              "Não vaciles com o telemóvel na mão aqui em Viana!"
+            ],
+            "topics": [
+              "Rua"
+            ]
+          }
+        ],
+        "childrenCount": 0,
+        "partiesHosted": 0,
+        "racesWon": 0,
+        "stealSuccessCount": 0,
+        "lastStealAtMs": 0,
+        "completedMissionIds": [],
+        "activeMissionId": "m1_emprego",
+        "chatThreads": {
+          "tia_maria": [
+            {
+              "id": "c1",
+              "sender": "Tia Maria",
+              "text": "Mekie sobrinho! Bem-vindo a Ingombota. Passa no Cantinho da Bita para comer ou comprar café, e entra numa empresa para trabalhar!",
+              "timeLabel": "08:15",
+              "fromPlayer": false
+            }
+          ],
+          "kizua_candongueiro": [
+            {
+              "id": "c2",
+              "sender": "Kizua",
+              "text": "Tropa, toca no chão para caminhar ou clica numa empresa para entrar na sala 3D!",
+              "timeLabel": "08:20",
+              "fromPlayer": false
+            }
+          ]
+        },
+        "socialPosts": [
+          {
+            "id": "post_1",
+            "author": "Neusa Domingos",
+            "handle": "@neusa.dev.ao",
+            "location": "Talatona, Luanda",
+            "caption": "A programar na Torre Unitel com um Cappuccino de Luanda. Trabalho leve e salário forte!",
+            "likes": 34,
+            "likedByPlayer": false,
+            "timeLabel": "há 15 min"
+          },
+          {
+            "id": "post_2",
+            "author": "Tia Maria",
+            "handle": "@cantinho.bita",
+            "location": "Ingombota & Baixa",
+            "caption": "Funge com Muamba e Café Expresso a sair na hora no Cantinho da Bita. Passem já!",
+            "likes": 51,
+            "likedByPlayer": false,
+            "timeLabel": "há 32 min"
+          }
+        ],
+        "radioPlaying": false,
+        "currentTrackId": "kuduro_luanda",
+        "playerAction": "idle",
+        "playerDistrict": "Ingombota & Baixa",
+        "playerX": -4.2,
+        "playerZ": 7.8,
+        "nearbyLandmarkId": null,
+        "nearbyNpcId": null,
+        "nearbyVehiclePrompt": false,
+        "lastEventMessage": "Bem-vindo à Banda 3D! Toca no terreno para andar ou entra num edifício."
+      }
+    },
+    "teste1794951002@banda.ao": {
+      "id": "usr_f7d2de5c28aa",
+      "email": "teste1794951002@banda.ao",
+      "name": "Teste Boneco 3D",
+      "passwordHash": "579d8230bd0c698e5873350174a53579943c53e46de0efe7104ee67917265da7",
+      "salt": "df1fdbd45634ed5470a164ca15b22f2e",
+      "isAdmin": false,
+      "createdAt": 1794951006534,
+      "snapshot": {
+        "mode": "paused",
+        "sceneView": "outdoor",
+        "activeCompanyRoomId": null,
+        "currentMunicipalityId": "ingombota",
+        "homeMunicipalityId": "ingombota",
+        "birthClass": "normal",
+        "birthDistrict": "Maianga",
+        "motherOccupation": "Taxista",
+        "motherStory": "Nasceste na Maianga. A tua mãe foi taxista durante anos pelas avenidas da capital.",
+        "appearance": {
+          "firstName": "Teste",
+          "lastName": "Boneco 3D",
+          "age": 24,
+          "gender": "Masculino",
+          "skinTone": "#6f422b",
+          "faceShape": "oval",
+          "eyeColor": "#23160f",
+          "hairStyle": "corte_baixo",
+          "hairColor": "#151210",
+          "beardStyle": "cavanhaque",
+          "height": 1,
+          "bodyBuild": "atletico",
+          "outfit": "urbano_luanda",
+          "shirtColor": "#f59e0b",
+          "pantsColor": "#1e293b",
+          "shoeColor": "#f8fafc",
+          "hasWatch": true,
+          "hasChain": true,
+          "hasCap": false,
+          "capColor": "#dc2626",
+          "hasGlasses": false
+        },
+        "moneyKz": 14000,
+        "bankKz": 6000,
+        "reputation": 6,
+        "day": 1,
+        "timeMinutes": 518,
+        "weather": "sol",
+        "needs": {
+          "energy": 92,
+          "hunger": 85,
+          "hygiene": 90,
+          "mood": 84,
+          "health": 100
+        },
+        "educationLevel": "basico",
+        "studyProgress": 0,
+        "studySessionsCompleted": 0,
+        "profession": null,
+        "currentCompanyId": null,
+        "currentCompanyJobTitle": null,
+        "lastJobApplication": null,
+        "shiftsCompleted": 0,
+        "propertyId": "quarto_alugado",
+        "activeCondoRental": null,
+        "ownedBathtubs": [],
+        "placedBathtubId": null,
+        "furniture": [
+          {
+            "id": "cama",
+            "name": "Cama King Conforto",
+            "placed": true,
+            "xOffset": -3,
+            "zOffset": -2.4,
+            "color": "#b45309"
+          },
+          {
+            "id": "tv",
+            "name": "Televisão Smart 4K",
+            "placed": true,
+            "xOffset": 0,
+            "zOffset": -3.6,
+            "color": "#0f172a"
+          },
+          {
+            "id": "fogao",
+            "name": "Fogão & Cozinha Angolana",
+            "placed": true,
+            "xOffset": 3.1,
+            "zOffset": -2.5,
+            "color": "#475569"
+          },
+          {
+            "id": "sofa",
+            "name": "Sofá da Sala",
+            "placed": true,
+            "xOffset": -0.4,
+            "zOffset": 0.6,
+            "color": "#d97706"
+          },
+          {
+            "id": "mesa",
+            "name": "Mesa de Jantar",
+            "placed": false,
+            "xOffset": 2.6,
+            "zOffset": 1.4,
+            "color": "#78350f"
+          },
+          {
+            "id": "som",
+            "name": "Aparelhagem Kuduro",
+            "placed": false,
+            "xOffset": -3,
+            "zOffset": 1.8,
+            "color": "#1e293b"
+          }
+        ],
+        "inventory": {
+          "cafe_expresso": 1
+        },
+        "ownedVehicles": [
+          {
+            "id": "candongueiro_hiace",
+            "color": "#0284c7",
+            "fuel": 90,
+            "health": 100,
+            "x": 8.2,
+            "z": 4.5,
+            "rotationY": 0,
+            "lightsOn": false,
+            "doorsOpen": false
+          }
+        ],
+        "activeVehicleIndex": 0,
+        "inVehicle": false,
+        "vehicleSpeedKmh": 0,
+        "business": {
+          "owned": false,
+          "name": "Banda Empreendimentos",
+          "type": "Loja de Bairro",
+          "employees": 0,
+          "level": 1,
+          "dailyRevenueKz": 0,
+          "pendingCashKz": 0
+        },
+        "npcs": [
+          {
+            "id": "tia_maria",
+            "name": "Tia Maria",
+            "role": "Dona do Cantinho da Bita",
+            "personality": "Acolhedora e atenta à vizinhança",
+            "municipalityId": "ingombota",
+            "district": "Ingombota & Baixa",
+            "skinTone": "#56311f",
+            "shirtColor": "#f59e0b",
+            "hairStyle": "coque",
+            "gender": "Feminino",
+            "affinity": 45,
+            "stage": "Amigo",
+            "isFamily": true,
+            "homeX": -3,
+            "homeZ": 11.5,
+            "greetings": [
+              "Mekie sobrinho! Come um funge aqui no Cantinho antes de entrar no trabalho!",
+              "Cuidado aí na esquina, vi um gatuno de capuz preto a rondar os passeios.",
+              "Se precisares de energia rápida, pede um Café Duplo ou compra uma banheira para casa!"
+            ],
+            "topics": [
+              "Comida & Energia",
+              "Segurança no Bairro",
+              "Família"
+            ]
+          },
+          {
+            "id": "kizua_candongueiro",
+            "name": "Kizua",
+            "role": "Motorista da Paragem",
+            "personality": "Observador e rápido",
+            "municipalityId": "ingombota",
+            "district": "Ingombota & Baixa",
+            "skinTone": "#6f422b",
+            "shirtColor": "#0284c7",
+            "hairStyle": "dreads",
+            "gender": "Masculino",
+            "affinity": 35,
+            "stage": "Conhecido",
+            "homeX": 4,
+            "homeZ": 4.2,
+            "greetings": [
+              "Ilha, Talatona, Viana! Se quiseres ir para Benguela ou Huambo é já no voo da TAAG!",
+              "Tropa, trabalho de segurança puxa muito pelo corpo — nunca vás trabalhar de barriga vazia!",
+              "Hoje o movimento na Baixa está forte!"
+            ],
+            "topics": [
+              "Viagens de Táxi & Avião",
+              "Empresas",
+              "Kuduro"
+            ]
+          },
+          {
+            "id": "neusa_dev",
+            "name": "Neusa Domingos",
+            "role": "Engenheira de Software",
+            "personality": "Inteligente e estratégica",
+            "municipalityId": "talatona",
+            "district": "Talatona",
+            "skinTone": "#8f5a3c",
+            "shirtColor": "#e11d48",
+            "hairStyle": "trancas",
+            "gender": "Feminino",
+            "affinity": 32,
+            "stage": "Conhecido",
+            "homeX": -11,
+            "homeZ": -11,
+            "greetings": [
+              "Na Unitel e no Banco BAI, programação gasta pouquíssima energia e paga muito bem!",
+              "Já viste as eleições no BandaGov? Podes candidatar-te a Presidente, Ministro ou Governador.",
+              "Aluguei um condomínio em Talatona por 3 dias reais — vale cada Kwanza!"
+            ],
+            "topics": [
+              "Programação",
+              "Condomínios Reais",
+              "BandaGov"
+            ]
+          },
+          {
+            "id": "edilson_ilha",
+            "name": "Edilson \"Pele\"",
+            "role": "Promotor de Eventos",
+            "personality": "Vibrante e conectado",
+            "municipalityId": "ilha_luanda",
+            "district": "Ilha de Luanda",
+            "skinTone": "#56311f",
+            "shirtColor": "#16a34a",
+            "hairStyle": "afro",
+            "gender": "Masculino",
+            "affinity": 40,
+            "stage": "Amigo",
+            "homeX": -11,
+            "homeZ": -10,
+            "greetings": [
+              "Mekie! A Praia da Ilha está linda hoje e a Discoteca Kilombo bomba à noite.",
+              "Compra uma Banheira Hidromassagem para tua casa — um clique e ficas a 100% de energia!",
+              "Fica atento aos gatunos que circulam perto das esquinas."
+            ],
+            "topics": [
+              "Praia da Ilha",
+              "Banheiras",
+              "Música"
+            ]
+          },
+          {
+            "id": "gatuno_ze",
+            "name": "Zé Sombra (Gatuno)",
+            "role": "Gatuno do Bairro",
+            "personality": "Sorrateiro e oportunista",
+            "municipalityId": "ingombota",
+            "district": "Ingombota & Baixa",
+            "skinTone": "#3b2114",
+            "shirtColor": "#111827",
+            "hairStyle": "corte_baixo",
+            "gender": "Masculino",
+            "affinity": 0,
+            "stage": "Desconhecido",
+            "isGatuno": true,
+            "homeX": 11,
+            "homeZ": -11,
+            "greetings": [
+              "Ei kota, passa aí uns Kwanzas ou afasta-te antes que eu te limpe os bolsos!",
+              "Só contas veteranas com mais de 3 dias reais aqui na banda é que conseguem entrar no esquema..."
+            ],
+            "topics": [
+              "Esquinas da Baixa"
+            ]
+          },
+          {
+            "id": "gatuno_manucho",
+            "name": "Manucho (Gatuno)",
+            "role": "Gatuno da Avenida",
+            "personality": "Desconfiado e veloz",
+            "municipalityId": "viana",
+            "district": "Viana",
+            "skinTone": "#56311f",
+            "shirtColor": "#1f2937",
+            "hairStyle": "dreads",
+            "gender": "Masculino",
+            "affinity": 0,
+            "stage": "Desconhecido",
+            "isGatuno": true,
+            "homeX": 11,
+            "homeZ": 11,
+            "greetings": [
+              "Não vaciles com o telemóvel na mão aqui em Viana!"
+            ],
+            "topics": [
+              "Rua"
+            ]
+          }
+        ],
+        "childrenCount": 0,
+        "partiesHosted": 0,
+        "racesWon": 0,
+        "stealSuccessCount": 0,
+        "lastStealAtMs": 0,
+        "completedMissionIds": [],
+        "activeMissionId": "m1_emprego",
+        "chatThreads": {
+          "tia_maria": [
+            {
+              "id": "c1",
+              "sender": "Tia Maria",
+              "text": "Mekie sobrinho! Bem-vindo a Ingombota. Passa no Cantinho da Bita para comer ou comprar café, e entra numa empresa para trabalhar!",
+              "timeLabel": "08:15",
+              "fromPlayer": false
+            }
+          ],
+          "kizua_candongueiro": [
+            {
+              "id": "c2",
+              "sender": "Kizua",
+              "text": "Tropa, toca no chão para caminhar ou clica numa empresa para entrar na sala 3D!",
+              "timeLabel": "08:20",
+              "fromPlayer": false
+            }
+          ]
+        },
+        "socialPosts": [
+          {
+            "id": "post_1",
+            "author": "Neusa Domingos",
+            "handle": "@neusa.dev.ao",
+            "location": "Talatona, Luanda",
+            "caption": "A programar na Torre Unitel com um Cappuccino de Luanda. Trabalho leve e salário forte!",
+            "likes": 34,
+            "likedByPlayer": false,
+            "timeLabel": "há 15 min"
+          },
+          {
+            "id": "post_2",
+            "author": "Tia Maria",
+            "handle": "@cantinho.bita",
+            "location": "Ingombota & Baixa",
+            "caption": "Funge com Muamba e Café Expresso a sair na hora no Cantinho da Bita. Passem já!",
+            "likes": 51,
+            "likedByPlayer": false,
+            "timeLabel": "há 32 min"
+          }
+        ],
+        "radioPlaying": false,
+        "currentTrackId": "kuduro_luanda",
+        "playerAction": "idle",
+        "playerDistrict": "Ingombota & Baixa",
+        "playerX": -4.2,
+        "playerZ": 7.8,
+        "nearbyLandmarkId": null,
+        "nearbyNpcId": null,
+        "nearbyVehiclePrompt": false,
+        "lastEventMessage": "Bem-vindo à Banda 3D! Toca no terreno para andar ou entra num edifício."
+      }
+    }
+  },
+  "sessions": {
+    "3190cd661e84afecfad239ea61863cee6474fc24e30125bc": "kelson@banda.ao",
+    "3545a15cc40b9a7e6d95b7b4a0ca4870cf7b1655b043c740": "netosealtiel@gmail.com",
+    "47f05c15ece507977b35c1ba1fbcac2ef9e780821325d440": "netosealtiel@gmail.com",
+    "b10dc2f7c59c4a7ea53c21f8d28f51578bfa82dda5633be1": "netosealtiel@gmail.com",
+    "7aa3e73cd6197deb3f4c879bd372a94bb8fbbfc80e5d2c82": "netosealtiel@gmail.com",
+    "bd116358c7fe138d4b68663412fb9643618c2a6fa0656bb7": "netosealtiel@gmail.com",
+    "4201d7d411ff49d34bcb55ad7e48c3d2d91cd5ab54702236": "netosealtiel@gmail.com",
+    "93573496636f38a05f00ba8f549292cb497a41306f70ef69": "netosealtiel@gmail.com",
+    "2be11113438f5a2c038a7e16d72b3fc537e9d753fb5cba16": "netosealtiel@gmail.com",
+    "1a62ba54a0f409a0217e1ff473ad139da23e0b61370bcc21": "netosealtiel@gmail.com",
+    "32f36e1463a547288362de11f9a87c92460d48702fc33794": "netosealtiel@gmail.com",
+    "8d278d34d1e193f575a98630aa251dee5fdf01ba9bdb4b41": "netosealtiel@gmail.com",
+    "62d13281fec6edabd8f4d1f15f9a5f8c1b00f29120a032c6": "netosealtiel@gmail.com",
+    "7834388d2909a23410633e6e432a3009d942e4ce03e905d3": "netosealtiel@gmail.com",
+    "c84f9aefb01030b1c3246b9d95f786811eb253b8b6699d9b": "netosealtiel@gmail.com",
+    "b23578ff76a0fc8916527895c8351801d6b24392b29a09be": "novato@banda.ao",
+    "e90e109823ef64ca93e073e9a6d896185e7226f7b01030bf": "visual_1794950848655@banda.ao",
+    "361034e585fddccc91892b67ea8a7b9c1c2fa5b7e3870fc2": "netosealtiel@gmail.com",
+    "7537ec5b74c46d8f537b8c16f4ac33dcb933cd45508b1d59": "teste1794951002@banda.ao",
+    "c4fd1e38292afb7cdde6fcae807e3020d55243d7948c5a0a": "netosealtiel@gmail.com",
+    "734729de226b441c0edce0297bb2729ea39e16de835f0da9": "netosealtiel@gmail.com"
+  },
+  "announcements": [
+    {
+      "id": "ann_1794950794238_325930",
+      "authorName": "Neto Sealtiel (Dono ADM)",
+      "message": "novo jogo banda 2.0",
+      "createdAtMs": 1794950794238
+    },
+    {
+      "id": "ann_1794950792354_b08c33",
+      "authorName": "Neto Sealtiel (Dono ADM)",
+      "message": "novo jogo banda 2.0",
+      "createdAtMs": 1794950792356
+    },
+    {
+      "id": "ann_1794930519072_48cb49",
+      "authorName": "Neto Sealtiel (Dono ADM)",
+      "message": "ola a todos",
+      "createdAtMs": 1794930519072
+    },
+    {
+      "id": "ann_1794929892531_b3e9f5",
+      "authorName": "Neto Sealtiel (Dono ADM)",
+      "message": "Aviso Global Oficial: Bem-vindos a Luanda 3D!",
+      "createdAtMs": 1794929892531
+    },
+    {
+      "id": "ann_1794929806782_7fe6b3",
+      "authorName": "Neto Sealtiel (Dono ADM)",
+      "message": "Aviso Global Oficial: Bem-vindos a Luanda 3D!",
+      "createdAtMs": 1794929806782
+    },
+    {
+      "id": "ann_1794929786896_3a8598",
+      "authorName": "Neto Sealtiel (Dono ADM)",
+      "message": "Aviso Global Oficial: Bem-vindos a Luanda 3D!",
+      "createdAtMs": 1794929786896
+    },
+    {
+      "id": "ann_welcome",
+      "authorName": "Administração Vida na Banda",
+      "message": "Bem-vindos a Luanda 3D! Entra nas empresas para trabalhar, visita o Cantinho da Bita e candidata-te no BandaGov!",
+      "createdAtMs": 1794928886030
+    }
+  ],
+  "govCandidates": [
+    {
+      "id": "cand_pres_1",
+      "name": "Eng. Sebastião Kilamba",
+      "email": "kilamba@gov.ao",
+      "role": "Presidente",
+      "province": "Nacional",
+      "partyOrSlogan": "Mais Empregos, Energia e Condomínios Acessíveis",
+      "votes": 14,
+      "createdAtMs": 1794496886030
+    },
+    {
+      "id": "cand_pres_2",
+      "name": "Dra. Helena Miramar",
+      "email": "helena@gov.ao",
+      "role": "Presidente",
+      "province": "Nacional",
+      "partyOrSlogan": "Educação Tecnológica e Segurança nas Ruas",
+      "votes": 11,
+      "createdAtMs": 1794583286030
+    },
+    {
+      "id": "cand_min_1",
+      "name": "Dr. Mateus Sonangol",
+      "email": "mateus@gov.ao",
+      "role": "Ministro",
+      "province": "Economia & Finanças",
+      "partyOrSlogan": "Kwanza Forte e Apoio às Cantinas e Empresas",
+      "votes": 9,
+      "createdAtMs": 1794669686030
+    },
+    {
+      "id": "cand_gov_1",
+      "name": "Neusa Domingos",
+      "email": "neusa@gov.ao",
+      "role": "Governador",
+      "province": "Luanda",
+      "partyOrSlogan": "Infraestruturas Modernas e Transportes TAAG & Táxis",
+      "votes": 12,
+      "createdAtMs": 1794756086030
+    },
+    {
+      "id": "cand_915deeb3f4",
+      "name": "Neto Sealtiel (Dono ADM)",
+      "email": "netosealtiel@gmail.com",
+      "role": "Presidente",
+      "province": "Luanda",
+      "partyOrSlogan": "Mais emprego e asfalto na Banda!",
+      "votes": 1,
+      "createdAtMs": 1794930533156
+    }
+  ],
+  "govVotes": {}
+}
